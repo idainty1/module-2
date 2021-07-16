@@ -74,14 +74,14 @@ html {
 @media (min-width: 1px) and (max-width: 767px) {
 	#Chicken {
       width: 100%;
-      float: left;
+      float: right;
     }
     #Beef {
       width: 100%;
-      float: left;
+      clear: both;
     }
     #Sushi {
       width: 100%;
-      float: left;
+      float: right;
     }
 }  
